@@ -1,0 +1,24 @@
+
+
+*** Partie email:
+https://stackabuse.com/python-validate-email-address-with-regular-expressions-regex/ 
+
+
+
+*** Partie Authentification:
+AuthDic={'Login1': "pwd1", 'Login2': "pwd2"}
+
+
+
+*** Partie Hachage:
+
+ListeM = ["Password", "azerty", "shadow", "hunter"] 
+
+ListeMH = ["3bf1114a986ba87ed28fc1b5884fc2f8", 
+"0bb09d80600eec3eb9d7793a6f859bedde2a2d83899b70bd78e961ed674b32f4",   
+"84cbb818cfade90c0630a1ee3145fdda66c1b1fb4862cc854c312c98c388dd84cb1f03d2ef97126071e9529943bf3da4abe0dacd2a5a85028381a65afe1e3623"]
+
+
+
+*** Partie Hachage:
+Alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'

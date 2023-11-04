@@ -1,0 +1,15 @@
+
+Id_user : 1
+Login&pwd: Ahmed&Ahmed123
+Classe : CII-2-SIIR-C
+Email : ahmed@gmail.com
+
+Id_user : 2
+Login&pwd: Sarra&Sarra147
+Classe : CII-2-SIIR-C
+Email : Sarra@gmeil.com
+
+Id_user : 3
+Login&pwd: Nour&Nour123
+Classe : CII-2-SIIR-C
+Email : nour@gmail.com
